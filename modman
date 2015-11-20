@@ -1,0 +1,3 @@
+app/code/local/IOU/NoRequiredPhone                           app/code/local/IOU/NoRequiredPhone
+app/code/local/Mage/Customer/Model/Address/Abstract.php      app/code/local/Mage/Customer/Model/Address/Abstract.php
+app/etc/modules/IOU_NoRequiredPhone.xml                      app/etc/modules/IOU_NoRequiredPhone.xml
