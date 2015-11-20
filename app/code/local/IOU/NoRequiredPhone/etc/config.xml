@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <IOU_NoRequiredPhone>
+            <version>0.1.0</version>
+        </IOU_NoRequiredPhone>
+    </modules>
+    <global>
+        <resources>
+            <iou_norequiredphone_setup>
+            <setup>
+                <module>IOU_NoRequiredPhone</module>
+            </setup>
+        </iou_norequiredphone_setup>
+    </resources>
+</global>
+</config>
